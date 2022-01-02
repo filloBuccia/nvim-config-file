@@ -14,7 +14,7 @@
 "/ with a empty pattern will repeat the last search
 
 "options for search mode
-:set incsearch "autocomplite while your're searching with Ctrl-L, Ctrl-W for going back
+:set incsearch "autocomplete while your're searching with Ctrl-L, Ctrl-W for going back
 :set hlsearch 
 :set smartcase "Search upper and lower cases
 :set mouse=a "Enable mouse 
@@ -28,8 +28,8 @@ Plug 'http://github.com/tpope/vim-surround' " Surrounding with ysw) for a single
 Plug 'https://github.com/preservim/nerdtree'  " Nerd Tree
 Plug 'https://github.com/tpope/vim-commentary' " For Commenting gcc (a single line) & gc(lines selected)
 Plug 'https://github.com/vim-airline/vim-airline' " Status bar
-Plug 'jiangmiao/auto-pairs' "Doppia coppia di parentesi e di virgolette in automatico
-Plug 'machakann/vim-highlightedyank' "Evidenziare la sezione selezionata
+Plug 'jiangmiao/auto-pairs' "Double commas and brackets
+Plug 'machakann/vim-highlightedyank' "Highlight your current cursor's line
 
 "Color customization 
 Plug 'https://github.com/ap/vim-css-color' " CSS Color Preview
